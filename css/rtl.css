@@ -1,0 +1,7 @@
+.input-group:not(.has-validation)
+  > :not(:last-child):not(.dropdown-toggle):not(.dropdown-menu):not(
+    .form-floating
+  ) {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
