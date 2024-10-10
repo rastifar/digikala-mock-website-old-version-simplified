@@ -13,6 +13,15 @@ I implemented the project to enhance my understanding of HTML, CSS.
 
 •  JavaScript: For adding interactivity and dynamic features to the web page.
 
+### Libraries and Frameworks
+•  Bootstrap: Used for responsive design and layout.
+
+•  Font Awesome: Used for icons.
+
+•  Animate.css: Used for CSS animations.
+
+•  Owl Carousel: Used for creating responsive carousels.
+
 ## Features
 •  Responsive Design: Ensures the web page looks good on all devices.
 
