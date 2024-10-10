@@ -1,3 +1,6 @@
+## Project Preview Link
+[See Project](https://rastifar.github.io/digikala-mock-website-old-version-simplified/)
+
 ## Project Overview
 
 This project was created based on a tutorial I followed a few years ago.
